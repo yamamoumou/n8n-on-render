@@ -27,7 +27,7 @@ services:
       - key: N8N_BASIC_AUTH_PASSWORD
         value: shanmoumou7!
       - key: N8N_ENCRYPTION_KEY
-        value: mySuperSecretEncryptionKey123
+        value: 3378hsdedwqd9ffqwfws
       - key: N8N_PORT
         value: 5678
       - key: DB_TYPE
