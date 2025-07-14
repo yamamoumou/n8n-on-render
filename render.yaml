@@ -22,7 +22,7 @@ services:
       - key: N8N_ENCRYPTION_KEY
         value: 3378hsdedwqd9ffqwfws
       - key: DB_TYPE
-        value: postgres
+        value: postgresdb
       - key: DB_POSTGRESDB_DATABASE
         fromDatabase:
           name: n8n-db
